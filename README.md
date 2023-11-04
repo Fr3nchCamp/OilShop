@@ -1,2 +1,4 @@
 # TheShopOnGithub
-The freeshop on github for Nintendo switch???
+The freeshop  for Nintendo switch???
+
+🚧 **IN CONSTRUCTION** 🚧
